@@ -1,0 +1,25 @@
+{
+  "name": "ai-health-bot-v1",
+  "version": "1.0.0",
+  "description": "ai-health-bot-v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianeom/ai-health-bot-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ianeom/ai-health-bot-v1/issues"
+  },
+  "homepage": "https://github.com/ianeom/ai-health-bot-v1#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^11.0.1",
+    "express": "^5.2.1"
+  }
+}
